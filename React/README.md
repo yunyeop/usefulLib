@@ -12,3 +12,8 @@ react-flow
 * url: https://reactflow.dev/
 * repository: https://github.com/wbkd/react-flow
 * Description: react에서 flowchart를 쉽게 그릴수있는 라이브러리 
+
+swr
+* url: https://swr.vercel.app/
+* repository: https://github.com/vercel/swr
+* Description: 캐시된 데이터를 가져오는데 효율적인 라이브러리 이며 자동 갱신, 브라우저 포커스시 갱신, 캐시 등 유용한 옵션들이 많다 또한 엔드포인트를 캐시해서 같은 화면에서 재요청이 일어나지 않도록 해준다. (어느정도 선에서 redux를 대안할수 있음)
