@@ -1,4 +1,9 @@
-React-Select
+react-select
 * url: https://react-select.com/
 * repository: https://github.com/jedwatson/react-select
 * Description: react에서 더욱더 만족스러운 select box를 만들수 있도록 제공하는 라이브러리
+
+react-grid-layout
+* url: https://react-grid-layout.github.io/react-grid-layout/examples/0-showcase.html
+* repository: https://github.com/react-grid-layout/react-grid-layout
+* Description: react에서 grid 형식을 크기 및 위치 조정할수 있게 해주는 라이브러리
