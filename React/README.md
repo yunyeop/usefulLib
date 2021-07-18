@@ -21,3 +21,8 @@ swr
   * 브라우저 포커스시 갱신
   * 캐시
   * 엔드포인트를 캐시하기 때문에 각 컴포넌트에서 재요청 없이 동일한 상태를 공유할수 있다<br/>(Redux의 귀찮고 불편한 작업을 어느정도선 에서 대체할수 있음)
+
+redux-persist
+* url & repo: https://github.com/rt2zz/redux-persist#readme
+* Description: store 값을 새로고침해도 유지할수 있게 해주는 라이브러리
+  * localStorage, sessionStorage 선택 가능
