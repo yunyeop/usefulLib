@@ -26,3 +26,7 @@ redux-persist
 * url & repo: https://github.com/rt2zz/redux-persist#readme
 * Description: store 값을 새로고침해도 유지할수 있게 해주는 라이브러리
   * localStorage, sessionStorage 선택 가능
+
+redux-toolkit
+* url: https://redux-toolkit.js.org
+* Description: redux의 공식 개발도구, redux를 더 간결하고 편하게 쓸수있다 immer가 기본내장
