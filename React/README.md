@@ -29,4 +29,9 @@ redux-persist
 
 redux-toolkit
 * url: https://redux-toolkit.js.org
-* Description: redux의 공식 개발도구, redux를 더 간결하고 편하게 쓸수있다 immer가 기본내장
+* Description: redux의 공식 개발도구, redux를 더 간결하고 편하게 쓸수있다 immer 내장
+
+react-data-grid
+* url : https://adazzle.github.io/react-data-grid/
+* repository : https://github.com/adazzle/react-data-grid
+* Description : table-grid 
