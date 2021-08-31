@@ -42,6 +42,7 @@ react-spring
 * Description : react Animation 라이브러리
 
 react-virtualized-auto-sizer
+(grafana 참고)
 * url : https://www.npmjs.com/package/react-virtualized-auto-sizer
 * repository : https://github.com/bvaughn/react-virtualized-auto-sizer/
 * Despcription : 부모 컴포넌트의 넓이와 높이를 자식 컴포넌트에게 전달해주는 HOC
