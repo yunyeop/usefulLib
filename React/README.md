@@ -40,3 +40,9 @@ react-spring
 * url : https://react-spring.io/
 * repository : https://github.com/pmndrs/react-spring
 * Description : react Animation 라이브러리
+
+react-virtualized-auto-sizer
+* url : https://www.npmjs.com/package/react-virtualized-auto-sizer
+* repository : https://github.com/bvaughn/react-virtualized-auto-sizer/
+* Despcription : 부모 컴포넌트의 넓이와 높이를 자식 컴포넌트에게 전달해주는 HOC
+* react-virtualized안의 AutoSizer 를 유저가 분리시켜논 레포
