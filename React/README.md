@@ -22,6 +22,14 @@ swr
   * 캐시
   * 엔드포인트를 캐시하기 때문에 각 컴포넌트에서 재요청 없이 동일한 상태를 공유할수 있다<br/>(Redux의 귀찮고 불편한 작업을 어느정도선 에서 대체할수 있음)
 
+react-query
+* url : https://react-query.tanstack.com/
+* repository : https://github.com/tannerlinsley/react-query
+* Description : swr과 상당히 비슷한개념. 서버의 상태를 관리할수있다
+  * 캐싱
+  * swr의 거의 모든 기능
+  * swr vs react-query : https://www.npmtrends.com/react-query-vs-swr-vs-@rtk-incubator/rtk-query
+
 redux-persist
 * url & repo: https://github.com/rt2zz/redux-persist#readme
 * Description: store 값을 새로고침해도 유지할수 있게 해주는 라이브러리
