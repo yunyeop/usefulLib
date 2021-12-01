@@ -60,3 +60,7 @@ raect-hook-form
 * url : https://react-hook-form.com/
 * repository : https://github.com/react-hook-form/react-hook-form
 * Description : validation 쉽게하는 라이브러리
+
+react-cookie
+* url & repository : https://github.com/reactivestack/cookies
+* Description : reacat환경에서 cookie를 쉽게 다룰수 있도록 도와주는 라이브러리
